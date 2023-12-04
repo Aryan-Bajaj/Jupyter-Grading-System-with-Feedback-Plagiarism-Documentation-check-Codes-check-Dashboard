@@ -811,7 +811,6 @@ JGS.head()
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Assuming df is your DataFrame
 df = JGS
 
 # Set the style
