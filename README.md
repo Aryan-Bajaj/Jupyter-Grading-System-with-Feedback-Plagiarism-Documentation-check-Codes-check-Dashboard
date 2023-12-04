@@ -99,4 +99,4 @@ Your journey guide in this coding odyssey: [Aryan Bajaj]
 
 ## License <a name="license"></a>
 
-This project is more liberating than your favorite coding playlist. Check out the [LICENSE.md](LICENSE.md) file for all the details.
+This project is more liberating than your favorite coding playlist. Check out the [LICENSE.md]([LICENSE.md](https://github.com/Aryan-Bajaj/Jupyter-Grading-System-with-Feedback-Plagiarism-Documentation-check-Codes-check-Dashboard/blob/main/LICENSE)https://github.com/Aryan-Bajaj/Jupyter-Grading-System-with-Feedback-Plagiarism-Documentation-check-Codes-check-Dashboard/blob/main/LICENSE) file for all the details.
