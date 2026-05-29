@@ -16,9 +16,9 @@
 
 -----
 
-## 📖 What Is This? (For Everyone)
+## 📖 What Is This?
 
-> Imagine a professor who has to grade 100 Jupyter notebook assignments — checking whether the code runs, whether the documentation is clear, whether anything was copied, and then writing individual feedback for each student. That takes days.
+> Imagine a professor who has to grade 100 Jupyter notebook assignments, checking whether the code runs, whether the documentation is clear, whether anything was copied, and then writing individual feedback for each student. That takes days.
 
 This system does all of that **automatically**, in minutes.
 
@@ -214,7 +214,7 @@ Overall:
   - OR "There's significant room for improvement."
 ```
 
-This is fully automated — no manual writing needed by the instructor.
+This is fully automated, no manual writing needed by the instructor.
 
 -----
 
